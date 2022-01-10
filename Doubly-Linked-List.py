@@ -126,6 +126,7 @@ DoublyLinkedList.insertionInDLinkedList(2, 0)
 DoublyLinkedList.insertionInDLinkedList(5, 1)
 DoublyLinkedList.insertionInDLinkedList(78, 2)
 DoublyLinkedList.insertionInDLinkedList(1, 3)
+
 print([node.value for node in DoublyLinkedList])
 DoublyLinkedList.deleteNode(3)
 print([node.value for node in DoublyLinkedList])
