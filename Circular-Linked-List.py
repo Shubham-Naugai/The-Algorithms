@@ -98,8 +98,6 @@ class CLinkedList():
             self.tail = None
 
 
-
-
 CircularLinkedList = CLinkedList()
 CircularLinkedList.insertionInCLinkedList(3, 0)
 CircularLinkedList.insertionInCLinkedList(6, 1)
