@@ -1,6 +1,7 @@
 # Minimum subset sun difference 
 # len(subset) = len(arr)/2
 
+
 def minSum(nums):
     # let say sum of first subset is s1 and s2 for second
     # if s1 < s2 then s2 = totalsum - s1
